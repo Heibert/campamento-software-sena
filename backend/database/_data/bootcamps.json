@@ -1,0 +1,29 @@
+[
+    {
+    "name" : "PHP Intermediate Level",
+    "website" : "http://laravel.com/capms",
+    "phone" : "(111) - 11111",
+    "description" : "Bootcamp for PHP learning",
+    "user_id" : 1,
+    "average_rating" : 4.5,
+    "average_cost" : 8000000
+    },
+    {
+    "name" : "Python Intermediate Level",
+    "website" : "http://Pythonlearning.com/capms",
+    "phone" : "(111) - 22222",
+    "description" : "Bootcamp for Python learning",
+    "user_id" : 1,
+    "average_rating" : 4.5,
+    "average_cost" : 1000000
+    },
+    {
+    "name" : "java Intermediate Level",
+    "website" : "http://javalearning.com/capms",
+    "phone" : "(111) - 22222",
+    "description" : "Bootcamp for java learning",
+    "user_id" : 1,
+    "average_rating" : 4.5,
+    "average_cost" : 1000000
+    }
+]
